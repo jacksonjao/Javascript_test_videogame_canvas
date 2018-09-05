@@ -10,3 +10,5 @@ D: Izquierda
 W: Salta
 
 SPACEBAR: Dispara
+
+NOTA: ABRIR EN CHROME
