@@ -11,4 +11,4 @@ W: Salta
 
 SPACEBAR: Dispara
 
-NOTA: ABRIR EN CHROME
+NOTA: ABRIR EN CHROME https://jacksonjao.github.io/portfolio/test_videogame_jhon_osorio/
